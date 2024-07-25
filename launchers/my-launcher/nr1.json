@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "my-launcher",
+    "description": "Reusable component for customer journey visualizations. Don't stop believing.",
+    "displayName": "Customer Journey",
+    "rootNerdletId": "root"
+}

@@ -1,0 +1,56 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tangollama",
+      "name": "Joel Worrall",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/929261?v=4",
+      "profile": "http://joelworrall.com",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "danielgolden",
+      "name": "Daniel Golden",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/812989?v=4",
+      "profile": "https://twitter.com/dangolden1",
+      "contributions": [
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "wesleyradcliffe",
+      "name": "Wesley D. Radcliffe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1923933?v=4",
+      "profile": "https://github.com/wesleyradcliffe",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "devfreddy",
+      "name": "Michael Frederick",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/197140?v=4",
+      "profile": "http://devfreddy.com",
+      "contributions": [
+        "tool",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "nr1-customer-journey",
+  "projectOwner": "newrelic",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

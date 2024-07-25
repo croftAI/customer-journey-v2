@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "name": "nr1-customer-journey",
+  "description": "NR1 Nerdpack for Customer Journeys.",
+  "version": "0.4.1",
+  "scripts": {
+    "start": "nr1 nerdpack:serve",
+    "test": "exit 0",
+    "eslint-check": "eslint nerdlets/",
+    "eslint-fix": "eslint nerdlets/ --fix"
+  },
+  "bugs": {
+    "email": "opensource+nr1-customer-journey@newrelic.com"
+  },
+  "dependencies": {
+    "@newrelic/nr1-community": "^1.2.0",
+    "babel-runtime": "^6.26.0",
+    "formik": "^1.5.8",
+    "lodash.get": "^4.4.2",
+    "lodash.has": "^4.5.2",
+    "nr1-funnel-component": "github:newrelic/nr1-funnel-component",
+    "prop-types": "^15.6.2",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "regenerator-runtime": "^0.14.1",
+    "sass-embedded": "^1.77.8",
+    "uuid": "^8.3.0",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "@newrelic/eslint-plugin-newrelic": "^0.3.1",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "eslint": "^6.8.0",
+    "file-loader": "^4.2.0",
+    "prettier": "^1.19.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not ie < 11",
+    "not dead"
+  ]
+}
